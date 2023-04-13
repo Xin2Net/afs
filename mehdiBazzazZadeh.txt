@@ -1,44 +1,45 @@
 🔴 اکانت دوم 100 گیگ ماهیانه‌ی مهدی بزاززاده برای تمام شرکتها
 
 نوع مستقل از شرکتها
-trojan://XXCddr6CAb@[::ffff:54b:c983]:2087?mode=gun&security=tls&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=bmi.ir&sni=mbzz.sbs#FTrojan_v2%28Mehdibzz2%29
+trojan://XUEk7wxAtg@[::ffff:54b:c983]:2083?mode=gun&security=tls&alpn=h2,http/1.1&type=grpc&serviceName=aparat.com&sni=mbzz.sbs#FTrojan_v2%28Mehdibzz%29
+trojan://XUEk7wxAtg@mbzz.sbs:2083?mode=gun&security=tls&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=aparat.com&sni=mbzz.sbs#FTrojan_v2%28Mehdibzz%29
 برای همراه اول
-trojan://XXCddr6CAb@ham.mbzz.sbs:2087?mode=gun&security=tls&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=bmi.ir&sni=mbzz.sbs#FTrojan_v2%28Mehdibzz2%29HamrahAvval
-trojan://XXCddr6CAb@ham2.mbzz.sbs:2087?mode=gun&security=tls&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=bmi.ir&sni=mbzz.sbs#FTrojan_v2%28Mehdibzz2%29HamrahAvval2
+trojan://XUEk7wxAtg@ham.mbzz.sbs:2083?mode=gun&security=tls&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=aparat.com&sni=mbzz.sbs#FTrojan_v2%28Mehdibzz%29HamrahAvval
+trojan://XUEk7wxAtg@ham2.mbzz.sbs:2083?mode=gun&security=tls&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=aparat.com&sni=mbzz.sbs#FTrojan_v2%28Mehdibzz%29HamrahAvval2
 برای ایرانسل
-trojan://XXCddr6CAb@ira.mbzz.sbs:2087?mode=gun&security=tls&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=bmi.ir&sni=mbzz.sbs#FTrojan_v2%28Mehdibzz2%29Irancell
-trojan://XXCddr6CAb@ira2.mbzz.sbs:2087?mode=gun&security=tls&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=bmi.ir&sni=mbzz.sbs#FTrojan_v2%28Mehdibzz2%29Irancell2
+trojan://XUEk7wxAtg@ira.mbzz.sbs:2083?mode=gun&security=tls&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=aparat.com&sni=mbzz.sbs#FTrojan_v2%28Mehdibzz%29Irancell
+trojan://XUEk7wxAtg@ira2.mbzz.sbs:2083?mode=gun&security=tls&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=aparat.com&sni=mbzz.sbs#FTrojan_v2%28Mehdibzz%29Irancell2
 برای رایتل
-trojan://XXCddr6CAb@rai.mbzz.sbs:2087?mode=gun&security=tls&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=bmi.ir&sni=mbzz.sbs#FTrojan_v2%28Mehdibzz2%29Righel
+trojan://XUEk7wxAtg@rai.mbzz.sbs:2083?mode=gun&security=tls&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=aparat.com&sni=mbzz.sbs#FTrojan_v2%28Mehdibzz%29Righel
 برای مخابرات
-trojan://XXCddr6CAb@mok.mbzz.sbs:2087?mode=gun&security=tls&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=bmi.ir&sni=mbzz.sbs#FTrojan_v2%28Mehdibzz2%29Mokhaberat
+trojan://XUEk7wxAtg@mok.mbzz.sbs:2083?mode=gun&security=tls&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=aparat.com&sni=mbzz.sbs#FTrojan_v2%28Mehdibzz%29Mokhaberat
 برای های وب
-trojan://XXCddr6CAb@hai.mbzz.sbs:2087?mode=gun&security=tls&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=bmi.ir&sni=mbzz.sbs#FTrojan_v2%28Mehdibzz2%29Hiweb
+trojan://XUEk7wxAtg@hai.mbzz.sbs:2083?mode=gun&security=tls&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=aparat.com&sni=mbzz.sbs#FTrojan_v2%28Mehdibzz%29Hiweb
 برای آسیاتک
-trojan://XXCddr6CAb@asi.mbzz.sbs:2087?mode=gun&security=tls&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=bmi.ir&sni=mbzz.sbs#FTrojan_v2%28Mehdibzz2%29Asiatech
+trojan://XUEk7wxAtg@asi.mbzz.sbs:2083?mode=gun&security=tls&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=aparat.com&sni=mbzz.sbs#FTrojan_v2%28Mehdibzz%29Asiatech
 برای شاتل
-trojan://XXCddr6CAb@sha.mbzz.sbs:2087?mode=gun&security=tls&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=bmi.ir&sni=mbzz.sbs#FTrojan_v2%28Mehdibzz2%29Shatel
+trojan://XUEk7wxAtg@sha.mbzz.sbs:2083?mode=gun&security=tls&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=aparat.com&sni=mbzz.sbs#FTrojan_v2%28Mehdibzz%29Shatel
 برای پارس آنلاین
-trojan://XXCddr6CAb@par.mbzz.sbs:2087?mode=gun&security=tls&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=bmi.ir&sni=mbzz.sbs#FTrojan_v2%28Mehdibzz2%29Parsonline
+trojan://XUEk7wxAtg@par.mbzz.sbs:2083?mode=gun&security=tls&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=aparat.com&sni=mbzz.sbs#FTrojan_v2%28Mehdibzz%29Parsonline
 برای مبین نت
-trojan://XXCddr6CAb@mob.mbzz.sbs:2087?mode=gun&security=tls&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=bmi.ir&sni=mbzz.sbs#FTrojan_v2%28Mehdibzz2%29Mobinnet
+trojan://XUEk7wxAtg@mob.mbzz.sbs:2083?mode=gun&security=tls&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=aparat.com&sni=mbzz.sbs#FTrojan_v2%28Mehdibzz%29Mobinnet
 برای اندیشه سبز
-trojan://XXCddr6CAb@and.mbzz.sbs:2087?mode=gun&security=tls&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=bmi.ir&sni=mbzz.sbs#FTrojan_v2%28Mehdibzz2%29AndishehSabz
+trojan://XUEk7wxAtg@and.mbzz.sbs:2083?mode=gun&security=tls&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=aparat.com&sni=mbzz.sbs#FTrojan_v2%28Mehdibzz%29AndishehSabz
 برای رسپینا
-trojan://XXCddr6CAb@res.mbzz.sbs:2087?mode=gun&security=tls&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=bmi.ir&sni=mbzz.sbs#FTrojan_v2%28Mehdibzz2%29Respina
+trojan://XUEk7wxAtg@res.mbzz.sbs:2083?mode=gun&security=tls&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=aparat.com&sni=mbzz.sbs#FTrojan_v2%28Mehdibzz%29Respina
 برای افرانت
-trojan://XXCddr6CAb@afr.mbzz.sbs:2087?mode=gun&security=tls&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=bmi.ir&sni=mbzz.sbs#FTrojan_v2%28Mehdibzz2%29AfraNet
+trojan://XUEk7wxAtg@afr.mbzz.sbs:2083?mode=gun&security=tls&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=aparat.com&sni=mbzz.sbs#FTrojan_v2%28Mehdibzz%29AfraNet
 برای زی تل
-trojan://XXCddr6CAb@zit.mbzz.sbs:2087?mode=gun&security=tls&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=bmi.ir&sni=mbzz.sbs#FTrojan_v2%28Mehdibzz2%29ZiTel
+trojan://XUEk7wxAtg@zit.mbzz.sbs:2083?mode=gun&security=tls&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=aparat.com&sni=mbzz.sbs#FTrojan_v2%28Mehdibzz%29ZiTel
 برای پیشگامان
-trojan://XXCddr6CAb@pis.mbzz.sbs:2087?mode=gun&security=tls&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=bmi.ir&sni=mbzz.sbs#FTrojan_v2%28Mehdibzz2%29Pishgaman
+trojan://XUEk7wxAtg@pis.mbzz.sbs:2083?mode=gun&security=tls&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=aparat.com&sni=mbzz.sbs#FTrojan_v2%28Mehdibzz%29Pishgaman
 برای آراکس
-trojan://XXCddr6CAb@ara.mbzz.sbs:2087?mode=gun&security=tls&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=bmi.ir&sni=mbzz.sbs#FTrojan_v2%28Mehdibzz2%29Arax
+trojan://XUEk7wxAtg@ara.mbzz.sbs:2083?mode=gun&security=tls&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=aparat.com&sni=mbzz.sbs#FTrojan_v2%28Mehdibzz%29Arax
 برای سامانتل
-trojan://XXCddr6CAb@sam.mbzz.sbs:2087?mode=gun&security=tls&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=bmi.ir&sni=mbzz.sbs#FTrojan_v2%28Mehdibzz2%29SamanTel
+trojan://XUEk7wxAtg@sam.mbzz.sbs:2083?mode=gun&security=tls&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=aparat.com&sni=mbzz.sbs#FTrojan_v2%28Mehdibzz%29SamanTel
 برای فن‌آوا
-trojan://XXCddr6CAb@fan.mbzz.sbs:2087?mode=gun&security=tls&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=bmi.ir&sni=mbzz.sbs#FTrojan_v2%28Mehdibzz2%29FanAva
+trojan://XUEk7wxAtg@fan.mbzz.sbs:2083?mode=gun&security=tls&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=aparat.com&sni=mbzz.sbs#FTrojan_v2%28Mehdibzz%29FanAva
 برای دیدبان‌نت
-trojan://XXCddr6CAb@did.mbzz.sbs:2087?mode=gun&security=tls&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=bmi.ir&sni=mbzz.sbs#FTrojan_v2%28Mehdibzz2%29DidebanNet
+trojan://XUEk7wxAtg@did.mbzz.sbs:2083?mode=gun&security=tls&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=aparat.com&sni=mbzz.sbs#FTrojan_v2%28Mehdibzz%29DidebanNet
 برای آپتل
-trojan://XXCddr6CAb@apt.mbzz.sbs:2087?mode=gun&security=tls&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=bmi.ir&sni=mbzz.sbs#FTrojan_v2%28Mehdibzz2%29ApTel
+trojan://XUEk7wxAtg@apt.mbzz.sbs:2083?mode=gun&security=tls&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=aparat.com&sni=mbzz.sbs#FTrojan_v2%28Mehdibzz%29ApTel
